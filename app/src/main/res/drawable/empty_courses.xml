@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M0,0h200v200h-200z" />
+    
+    <!-- Book Stack -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M60,80h80v60h-80z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M70,70h80v60h-80z" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M80,60h80v60h-80z" />
+    
+    <!-- Book Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,85h70v50h-70z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,75h70v50h-70z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,65h70v50h-70z" />
+    
+    <!-- Question Mark -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M100,40c-8,0 -15,7 -15,15c0,3 1,6 3,8c2,2 5,3 8,3c3,0 6,-1 8,-3c2,-2 3,-5 3,-8C115,47 108,40 100,40z" />
+    
+    <!-- Question Mark Dot -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M100,70c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S102,70 100,70z" />
+    
+    <!-- Magnifying Glass -->
+    <path
+        android:fillColor="#2196F3"
+        android:strokeWidth="4"
+        android:pathData="M130,30c-5,0 -10,5 -10,10s5,10 10,10s10,-5 10,-10S135,30 130,30z" />
+    <path
+        android:fillColor="#2196F3"
+        android:strokeWidth="4"
+        android:pathData="M140,40l10,10" />
+    
+    <!-- Text Lines -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M50,120h100v3h-100z" />
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M50,130h80v3h-80z" />
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M50,140h90v3h-90z" />
+    
+    <!-- Plus Icon -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M100,160c-5,0 -10,5 -10,10s5,10 10,10s10,-5 10,-10S105,160 100,160z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M95,170h10v5h-10z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M97,168h5v10h-5z" />
+</vector>

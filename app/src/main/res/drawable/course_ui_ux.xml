@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+    
+    <!-- Background Gradient -->
+    <path
+        android:fillColor="#ffa726"
+        android:pathData="M0,0h200v120h-200z" />
+    <path
+        android:fillColor="#ff9800"
+        android:pathData="M0,0h200v60h-200z" />
+    
+    <!-- Phone Frame -->
+    <path
+        android:fillColor="#2c3e50"
+        android:pathData="M35,5h130v110h-130z" />
+    
+    <!-- Phone Screen -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M40,15h120v90h-120z" />
+    
+    <!-- Status Bar -->
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M40,15h120v12h-120z" />
+    
+    <!-- App Header -->
+    <path
+        android:fillColor="#f8f9fa"
+        android:pathData="M40,32h120v18h-120z" />
+    
+    <!-- Navigation Bar -->
+    <path
+        android:fillColor="#ecf0f1"
+        android:pathData="M40,85h120v20h-120z" />
+    
+    <!-- UI Elements -->
+    <!-- Button 1 -->
+    <path
+        android:fillColor="#ff6b6b"
+        android:pathData="M50,55h25v10h-25z" />
+    
+    <!-- Button 2 -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M85,55h25v10h-25z" />
+    
+    <!-- Button 3 -->
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M120,55h25v10h-25z" />
+    
+    <!-- Card -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M50,70h95v12h-95z" />
+    
+    <!-- Design Tools -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M15,25h12v12h-12z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M173,25h12v12h-12z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M15,83h12v12h-12z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M173,83h12v12h-12z" />
+    
+    <!-- Color Palette -->
+    <path
+        android:fillColor="#ff4757"
+        android:pathData="M8,45h10v10h-10z" />
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M20,45h10v10h-10z" />
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M32,45h10v10h-10z" />
+    <path
+        android:fillColor="#ffa726"
+        android:pathData="M8,57h10v10h-10z" />
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M20,57h10v10h-10z" />
+    <path
+        android:fillColor="#4ecdc4"
+        android:pathData="M32,57h10v10h-10z" />
+    
+    <!-- Figma Logo -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M150,45h15v15h-15z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M150,62h15v15h-15z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M167,45h15v15h-15z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M167,62h15v15h-15z" />
+    
+    <!-- Title -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M65,105h70v6h-70z" />
+</vector>

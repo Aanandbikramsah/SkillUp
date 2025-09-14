@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+    
+    <!-- Background Gradient -->
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M0,0h200v120h-200z" />
+    <path
+        android:fillColor="#764ba2"
+        android:pathData="M0,0h200v60h-200z" />
+    
+    <!-- Android Robot -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M100,25c-18,0 -30,12 -30,30v30c0,18 12,30 30,30s30,-12 30,-30V55C130,37 118,25 100,25z" />
+    
+    <!-- Head -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M100,20c-15,0 -25,10 -25,25v8c0,15 10,25 25,25s25,-10 25,-25V45C125,30 115,20 100,20z" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M88,32c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S91,32 88,32z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M112,32c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S115,32 112,32z" />
+    
+    <!-- Eye pupils -->
+    <path
+        android:fillColor="#2c3e50"
+        android:pathData="M90,35c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S91,35 90,35z" />
+    <path
+        android:fillColor="#2c3e50"
+        android:pathData="M110,35c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S111,35 110,35z" />
+    
+    <!-- Antenna -->
+    <path
+        android:fillColor="#00d4aa"
+        android:strokeWidth="3"
+        android:pathData="M100,15l0,-8" />
+    <path
+        android:fillColor="#ff6b6b"
+        android:pathData="M100,5c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S102,5 100,5z" />
+    
+    <!-- Arms -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M65,55c-8,0 -15,7 -15,15v20c0,8 7,15 15,15s15,-7 15,-15V70C80,62 73,55 65,55z" />
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M135,55c8,0 15,7 15,15v20c0,8 -7,15 -15,15s-15,-7 -15,-15V70C120,62 127,55 135,55z" />
+    
+    <!-- Legs -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M85,85c-4,0 -8,4 -8,8v12c0,4 4,8 8,8s8,-4 8,-8V93C93,89 89,85 85,85z" />
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M115,85c4,0 8,4 8,8v12c0,4 -4,8 -8,8s-8,-4 -8,-8V93C107,89 111,85 115,85z" />
+    
+    <!-- Code Elements -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M30,20h15v3h-15z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M30,25h20v3h-20z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M30,30h12v3h-12z" />
+    
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M155,20h15v3h-15z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M150,25h20v3h-20z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M158,30h12v3h-12z" />
+    
+    <!-- Title -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M60,100h80v8h-80z" />
+</vector>

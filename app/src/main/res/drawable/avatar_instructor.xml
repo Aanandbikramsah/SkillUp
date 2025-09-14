@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M60,60m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0" />
+    
+    <!-- Head -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M60,25c-15,0 -25,10 -25,25v20c0,15 10,25 25,25s25,-10 25,-25V50C85,35 75,25 60,25z" />
+    
+    <!-- Hair -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M60,20c-20,0 -30,5 -30,15c0,5 5,10 10,10c-5,5 -10,10 -10,20c0,10 5,15 15,15c5,0 10,-5 15,-10c5,5 10,10 15,10c10,0 15,-5 15,-15c0,-10 -5,-15 -10,-20c5,-5 10,-10 10,-20C90,25 80,20 60,20z" />
+    
+    <!-- Glasses -->
+    <path
+        android:fillColor="#424242"
+        android:strokeWidth="2"
+        android:pathData="M45,45c-5,0 -8,3 -8,8s3,8 8,8s8,-3 8,-8S50,45 45,45z" />
+    <path
+        android:fillColor="#424242"
+        android:strokeWidth="2"
+        android:pathData="M75,45c-5,0 -8,3 -8,8s3,8 8,8s8,-3 8,-8S80,45 75,45z" />
+    <path
+        android:fillColor="#424242"
+        android:strokeWidth="2"
+        android:pathData="M53,53h14" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,49c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S48,49 47,49z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,49c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S74,49 73,49z" />
+    
+    <!-- Eye pupils -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M48,50c-1,0 -1,1 -1,1s0,1 1,1s1,0 1,-1S49,50 48,50z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M74,50c-1,0 -1,1 -1,1s0,1 1,1s1,0 1,-1S75,50 74,50z" />
+    
+    <!-- Nose -->
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M60,58c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S61,58 60,58z" />
+    
+    <!-- Mouth -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M60,68c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S63,68 60,68z" />
+    
+    <!-- Shirt with tie -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M45,75c-5,0 -10,5 -10,10v20c0,5 5,10 10,10h30c5,0 10,-5 10,-10V85c0,-5 -5,-10 -10,-10H45z" />
+    
+    <!-- Tie -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M58,75h4v20h-4z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M55,75h10v5h-10z" />
+</vector>

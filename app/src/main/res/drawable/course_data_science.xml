@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+    
+    <!-- Background Gradient -->
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M0,0h200v120h-200z" />
+    <path
+        android:fillColor="#673ab7"
+        android:pathData="M0,0h200v60h-200z" />
+    
+    <!-- Chart Background -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M15,15h170v85h-170z" />
+    
+    <!-- Chart Grid -->
+    <path
+        android:fillColor="#f8f9fa"
+        android:pathData="M25,25h150v2h-150z" />
+    <path
+        android:fillColor="#f8f9fa"
+        android:pathData="M25,45h150v2h-150z" />
+    <path
+        android:fillColor="#f8f9fa"
+        android:pathData="M25,65h150v2h-150z" />
+    <path
+        android:fillColor="#f8f9fa"
+        android:pathData="M25,85h150v2h-150z" />
+    
+    <!-- Bar Chart -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M35,75h12v25h-12z" />
+    <path
+        android:fillColor="#ff6b6b"
+        android:pathData="M55,55h12v45h-12z" />
+    <path
+        android:fillColor="#ffa726"
+        android:pathData="M75,35h12v65h-12z" />
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M95,25h12v75h-12z" />
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M115,45h12v55h-12z" />
+    <path
+        android:fillColor="#4ecdc4"
+        android:pathData="M135,65h12v35h-12z" />
+    
+    <!-- Data Points -->
+    <path
+        android:fillColor="#ff4757"
+        android:pathData="M45,30c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S48,30 45,30z" />
+    <path
+        android:fillColor="#ff4757"
+        android:pathData="M75,40c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S78,40 75,40z" />
+    <path
+        android:fillColor="#ff4757"
+        android:pathData="M105,20c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S108,20 105,20z" />
+    <path
+        android:fillColor="#ff4757"
+        android:pathData="M135,50c-3,0 -5,2 -5,5s2,5 5,5s5,-2 5,-5S138,50 135,50z" />
+    
+    <!-- Trend Line -->
+    <path
+        android:fillColor="#ff4757"
+        android:strokeWidth="3"
+        android:pathData="M45,35L75,45L105,25L135,55" />
+    
+    <!-- Python Logo -->
+    <path
+        android:fillColor="#3776ab"
+        android:pathData="M25,15c-5,0 -10,5 -10,10v5c0,5 5,10 10,10h5v-5h-5c-3,0 -5,-2 -5,-5v-5c0,-3 2,-5 5,-5h5v-5h-5z" />
+    <path
+        android:fillColor="#ffd43b"
+        android:pathData="M35,15h5v5h-5v-5z" />
+    
+    <!-- R Logo -->
+    <path
+        android:fillColor="#276dc3"
+        android:pathData="M160,15c-5,0 -10,5 -10,10v5c0,5 5,10 10,10h5v-5h-5c-3,0 -5,-2 -5,-5v-5c0,-3 2,-5 5,-5h5v-5h-5z" />
+    <path
+        android:fillColor="#276dc3"
+        android:pathData="M170,15h5v5h-5v-5z" />
+    
+    <!-- Title -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M60,105h80v6h-80z" />
+</vector>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M0,0h300v300h-300z" />
+    
+    <!-- Person -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M150,80c-20,0 -35,15 -35,35v30c0,20 15,35 35,35s35,-15 35,-35V115C185,95 170,80 150,80z" />
+    
+    <!-- Hair -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M150,70c-25,0 -40,10 -40,20c0,10 10,15 15,15c-10,10 -15,20 -15,35c0,20 10,30 25,30c10,0 20,-10 30,-20c10,10 20,20 30,20c20,0 30,-10 30,-30c0,-15 -5,-25 -15,-35c5,-10 15,-20 15,-35C190,80 175,70 150,70z" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M135,100c-3,0 -6,3 -6,6s3,6 6,6s6,-3 6,-6S138,100 135,100z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M165,100c-3,0 -6,3 -6,6s3,6 6,6s6,-3 6,-6S168,100 165,100z" />
+    
+    <!-- Eye pupils -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M137,102c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S138,102 137,102z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M167,102c-1,0 -2,1 -2,2s1,2 2,2s2,-1 2,-2S168,102 167,102z" />
+    
+    <!-- Smile -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M150,125c-8,0 -15,7 -15,15s7,15 15,15s15,-7 15,-15S158,125 150,125z" />
+    
+    <!-- Shirt -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M120,150c-10,0 -20,10 -20,20v40c0,10 10,20 20,20h60c10,0 20,-10 20,-20V170c0,-10 -10,-20 -20,-20H120z" />
+    
+    <!-- Books -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M50,200h40v60h-40z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,190h40v60h-40z" />
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M70,180h40v60h-40z" />
+    
+    <!-- Laptop -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M200,200h60v40h-60z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M205,205h50v30h-50z" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M210,210h40v20h-40z" />
+    
+    <!-- Light Bulb -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M150,50c-8,0 -15,7 -15,15c0,5 3,10 7,12c-2,2 -3,5 -3,8c0,5 5,10 10,10s10,-5 10,-10c0,-3 -1,-6 -3,-8c4,-2 7,-7 7,-12C165,57 158,50 150,50z" />
+    
+    <!-- Light Rays -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeWidth="3"
+        android:pathData="M120,40l10,10" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeWidth="3"
+        android:pathData="M170,40l-10,10" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeWidth="3"
+        android:pathData="M150,20l0,15" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeWidth="3"
+        android:pathData="M130,30l15,15" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeWidth="3"
+        android:pathData="M170,30l-15,15" />
+    
+    <!-- Stars -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M80,60c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S82,60 80,60z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M220,80c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S222,80 220,80z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M70,120c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S72,120 70,120z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M230,140c-2,0 -4,2 -4,4s2,4 4,4s4,-2 4,-4S232,140 230,140z" />
+</vector>

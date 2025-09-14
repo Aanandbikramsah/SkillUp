@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+    
+    <!-- Background Gradient -->
+    <path
+        android:fillColor="#00d4aa"
+        android:pathData="M0,0h200v120h-200z" />
+    <path
+        android:fillColor="#00b894"
+        android:pathData="M0,0h200v60h-200z" />
+    
+    <!-- Brain/Neural Network -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M100,25c-25,0 -40,15 -40,40c0,15 8,25 20,30c-8,8 -15,15 -15,25c0,15 8,20 20,20c8,0 15,-8 20,-15c8,8 15,15 20,15c15,0 20,-8 20,-20c0,-15 -8,-20 -15,-25c15,-8 20,-20 20,-40C140,40 125,25 100,25z" />
+    
+    <!-- Neural Network Nodes -->
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M65,55c-4,0 -8,4 -8,8s4,8 8,8s8,-4 8,-8S69,55 65,55z" />
+    <path
+        android:fillColor="#ff6b6b"
+        android:pathData="M100,45c-4,0 -8,4 -8,8s4,8 8,8s8,-4 8,-8S104,45 100,45z" />
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M135,55c-4,0 -8,4 -8,8s4,8 8,8s8,-4 8,-8S139,55 135,55z" />
+    <path
+        android:fillColor="#ffa726"
+        android:pathData="M80,75c-4,0 -8,4 -8,8s4,8 8,8s8,-4 8,-8S84,75 80,75z" />
+    <path
+        android:fillColor="#4ecdc4"
+        android:pathData="M120,75c-4,0 -8,4 -8,8s4,8 8,8s8,-4 8,-8S124,75 120,75z" />
+    
+    <!-- Connection Lines -->
+    <path
+        android:fillColor="#667eea"
+        android:strokeWidth="3"
+        android:pathData="M69,63L96,53" />
+    <path
+        android:fillColor="#ff6b6b"
+        android:strokeWidth="3"
+        android:pathData="M104,53L131,63" />
+    <path
+        android:fillColor="#9c27b0"
+        android:strokeWidth="3"
+        android:pathData="M69,63L84,75" />
+    <path
+        android:fillColor="#ffa726"
+        android:strokeWidth="3"
+        android:pathData="M96,53L84,75" />
+    <path
+        android:fillColor="#4ecdc4"
+        android:strokeWidth="3"
+        android:pathData="M104,53L116,75" />
+    <path
+        android:fillColor="#667eea"
+        android:strokeWidth="3"
+        android:pathData="M131,63L116,75" />
+    
+    <!-- AI Text -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M75,90h50v6h-50z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M80,100h40v4h-40z" />
+    
+    <!-- Circuit Pattern -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M25,20h8v8h-8z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M167,20h8v8h-8z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M25,92h8v8h-8z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M167,92h8v8h-8z" />
+    
+    <!-- AI Icons -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M30,15h6v6h-6z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M164,15h6v6h-6z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M30,99h6v6h-6z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M164,99h6v6h-6z" />
+</vector>
