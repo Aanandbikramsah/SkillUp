@@ -4,7 +4,7 @@ SkillUp is an Android e-learning application that allows users to enroll in mult
 
 🚀 Features
 
-User authentication using SharedPreferences
+User authentication using Firebase
 
 Multiple courses available for enrollment
 
